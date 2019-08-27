@@ -1,0 +1,11 @@
+{
+  "name": "iyashi-no-izumi-in-slack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gatchan0807/iyashi-no-izumi-in-slack.git",
+  "author": "gatchan0807 <yuki.dolphin.koga@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^0.0.58"
+  }
+}
